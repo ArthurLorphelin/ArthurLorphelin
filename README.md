@@ -5,7 +5,7 @@
 I'm passionate about building serverless applications and solving complex problems with elegant solutions.
 
 ### 🔭 Current Focus
-- Working on a personnal project while lokking for new job opportunities
+- Working on a personnal project while looking for new job opportunities
 - Learning how to use and implement AWS Services
 
 ### 💻 Tech Stack
